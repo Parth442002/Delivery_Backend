@@ -1,5 +1,5 @@
 """
-ASGI config for server project.
+ASGI config for volt project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
