@@ -1,4 +1,4 @@
-absl-py @ file:///home/conda/feedstock_root/build_artifacts/absl-py_1606234718434/work
+
 alembic==1.7.5
 anyio @ file:///Users/runner/miniforge3/conda-bld/anyio_1636638529952/work/dist
 appnope @ file:///Users/runner/miniforge3/conda-bld/appnope_1635819899231/work
