@@ -9,7 +9,7 @@ from rest_framework.response import Response
 
 
 # Create your views here.
-
+'''
 class HouseView(APIView):
 
     def get_object(self, pk):
@@ -35,3 +35,5 @@ class HouseView(APIView):
         snippet = self.get_object(pk)
         snippet.delete()
         return Response(status=status.HTTP_204_NO_CONTENT)
+
+'''
