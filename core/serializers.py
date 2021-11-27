@@ -1,5 +1,3 @@
-from pyexpat import model
-from attr import field
 from rest_framework import serializers
 from .models import House, GovernmentCorp, RenewableEnergy, Room
 from authentication.models import Owner
