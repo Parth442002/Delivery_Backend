@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-=+*&ho*n6894di9q99*7-4($m%0gkhx8zxqj*f3pdafmvx6r_q
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "https://voltbackend.herokuapp.com",
+    "https://voltbackend.herokuapp.com/",
     "localhost",
     "127.0.0.1"
 ]
